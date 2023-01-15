@@ -1,2 +1,2 @@
 # tfidf_afiniti
-This project developing for an assesment
+This project developing for an assessment
