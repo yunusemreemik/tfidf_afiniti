@@ -84,6 +84,11 @@ if __name__ == '__main__':
     # Add new one
     new_data = "this is a new test document"
     framework.append_data(new_data)
+    # Print the tf-idf matrix
+    print(framework.tfidf_matrix.toarray())
 
+    # Add new list
+    new_list_data = ["And this is the realy fifth one.","And this is the finaly sixth one."]  
+    framework.append_list_data(new_list_data)
     # Print the tf-idf matrix
     print(framework.tfidf_matrix.toarray())
