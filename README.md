@@ -1,4 +1,4 @@
-# TFIDF Transformer Afiniti
+# TFIDF Transformer
 
 A package for performing TF-IDF transformation on text data.
 This project developing for an assessment:
